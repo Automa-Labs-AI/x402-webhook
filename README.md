@@ -1,4 +1,6 @@
-# Automa8 Ecosystem Repository
+## 🎉 Join Our Discord Community!
+
+[Join Discord](https://discord.gg/7YBHxCEF)# Automa8 Ecosystem Repository
 
 Part of the Automa Labs open-source ecosystem.
 
